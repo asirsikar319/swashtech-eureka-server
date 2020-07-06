@@ -1,0 +1,1 @@
+# swashtech-eureka-server
